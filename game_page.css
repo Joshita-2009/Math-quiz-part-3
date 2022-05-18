@@ -1,0 +1,32 @@
+#number1, #number2{
+          border: 10px;
+          border-color: aquamarine;
+          padding: 10px;
+          border-radius: 10px;
+}
+body{
+          background-color: blanchedalmond;
+}
+#send_button{
+          padding: 10px;
+          background-color: aquamarine;
+          border-color: pink;
+          border-radius: 10px;
+          width: 70px;
+          height: 40px;
+}
+h2{
+          font-family: 'Ms Madi', cursive;
+          font-size: medium;
+          color:pink;
+          font-size: 30px;
+}
+#output{
+          border-top: 10px solid pink;
+          border-radius: 10px;
+          padding: 10px;
+          text-align: left;
+          float: none;
+          background-color: white;
+          width: 50%;
+}

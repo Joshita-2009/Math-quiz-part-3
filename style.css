@@ -1,0 +1,26 @@
+body{
+          font-family: 'Ms Madi', cursive;
+          font-size: medium;
+          background-color: bisque;
+          text-align: center;
+}
+h2{
+          color:pink;
+          font-size: 30px;
+}
+h4{
+          font-size: 25px;
+          font-family: fantasy;
+}
+p{
+          font-size: 20px;
+}
+#player1_name, #player2_name{
+          border-color: aquamarine;
+          border-radius: 10px;
+          padding: 10px;
+}
+#button_login{
+          width: 50px;
+          height: 30px;
+}
